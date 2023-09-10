@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Run commands as root
-sudo su
 
 # Initialize Kubernetes cluster
 kubeadm init
